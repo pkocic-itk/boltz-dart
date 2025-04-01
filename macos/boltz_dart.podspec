@@ -3,7 +3,7 @@
 # Run `pod lib lint hello_rust_ffi_plugin.podspec` to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'boltzt'
+  s.name             = 'boltz_dart`'
   s.version          = '0.0.1'
   s.summary          = 'A new Flutter FFI plugin project.'
   s.description      = <<-DESC
